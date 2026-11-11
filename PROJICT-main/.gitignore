@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+data/*.sqlite
+data/*.sqlite-*
+data/*.log
+assets/qr_codes/*
+!assets/qr_codes/.gitkeep
+
+.vscode/
